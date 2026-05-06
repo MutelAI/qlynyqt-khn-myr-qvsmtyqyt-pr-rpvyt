@@ -1,0 +1,620 @@
+{
+  "version": 2,
+  "business": {
+    "name": "קליניקת חן אמיר",
+    "name_en": "קליניקת חן אמיר -קוסמטיקאית פרא רפואית",
+    "site_lang": "he",
+    "available_langs": [
+      "he"
+    ],
+    "phone": "+972508939326",
+    "phone_display": "+972508939326",
+    "whatsapp": "972508939326",
+    "website": "",
+    "rating": 5,
+    "reviews_count": 100,
+    "address_he": "Ze'ev Jabotinsky St 18, Holon, Israel",
+    "address_en": "Ze'ev Jabotinsky St 18, Holon, Israel",
+    "category_he": "קוסמטיקאית פרא רפואית",
+    "category_en": "Paramedical Aesthetician",
+    "maps_url": "https://maps.google.com/?q=32.0250458,34.7786546",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFw1JkjtUdpQqyLEjSVJi8gFkPV6n6TP5xoGS7FAQ4q5qSw0v9Qbr2fme6DV7HL3nJ0ikIKDbzY2KubFcmvFK39mijeJrhoxLqgFSQg-b0aRRiwnarKMmN2qr47SAETBiMVRQ=w408-h725-k-no",
+    "logo_emoji": "Sparkles",
+    "geo": {
+      "latitude": 32.0250458,
+      "longitude": 34.7786546
+    },
+    "schema_type": "HealthAndBeautyBusiness",
+    "price_range": "$$",
+    "source_url": "https://maps.app.goo.gl/qjXT5faZ9ZyunhjR6",
+    "cache_key": "qjXT5faZ9ZyunhjR6"
+  },
+  "editToken": "794682442b98e2e267ad0f9c655c1beb",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "ראשון",
+      "day_en": "Sunday",
+      "hours_he": "8:30:00 - 20:00",
+      "hours_en": "8:30 am–8 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "monday",
+      "day_he": "שני",
+      "day_en": "Monday",
+      "hours_he": "8:30:00 - 8:18:00",
+      "hours_en": "8:30 am–8:30 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "שלישי",
+      "day_en": "Tuesday",
+      "hours_he": "8:30:00 - 8:18:00",
+      "hours_en": "8:30 am–8:30 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "רביעי",
+      "day_en": "Wednesday",
+      "hours_he": "8:30:00 - 8:18:00",
+      "hours_en": "8:30 am–8:30 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "חמישי",
+      "day_en": "Thursday",
+      "hours_he": "8:30:00 - 8:18:00",
+      "hours_en": "8:30 am–8:30 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "friday",
+      "day_he": "שישי",
+      "day_en": "Friday",
+      "hours_he": "8:30:00 - 2:18:00",
+      "hours_en": "8:30 am–2:30 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "שבת",
+      "day_en": "Saturday",
+      "hours_he": "6 - 23:00",
+      "hours_en": "6–11 pm",
+      "is_open": true
+    }
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "מנהלת קליניקה בעלת 5 כוכבים עם 49 ביקורות חמות — המומחית שכל אחד מדבר עליה",
+          "en": "מנהלת קליניקה בעלת 5 כוכבים עם 49 ביקורות חמות — המומחית שכל אחד מדבר עליה"
+        },
+        "subtitle": {
+          "he": "חן אמיר היא קוסמטיקאית פרא רפואית מהשורה הראשונה המביאה תוצאות יוצאות דופן. כל טיפול מעוצב בדיוק, כל פרט משנה, וכל לקוח מרגיש כמו הראשי. זה לא רק טיפול — זה השקעה במראה שלך.",
+          "en": "חן אמיר היא קוסמטיקאית פרא רפואית מהשורה הראשונה המביאה תוצאות יוצאות דופן. כל טיפול מעוצב בדיוק, כל פרט משנה, וכל לקוח מרגיש כמו הראשי. זה לא רק טיפול — זה השקעה במראה שלך."
+        },
+        "available": {
+          "he": "פתוח לזימון",
+          "en": "פתוח לזימון"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "L",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "הטיפולים שמשנים הכל",
+          "en": "הטיפולים שמשנים הכל"
+        },
+        "cta": {
+          "he": "בואו נתחיל את הטיפול שלך",
+          "en": "בואו נתחיל את הטיפול שלך"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "Sparkles",
+          "title": {
+            "he": "טיפולי פנים מתקדמים",
+            "en": "טיפולי פנים מתקדמים"
+          },
+          "desc": {
+            "he": "טיפולי פנים מקצועיים המעוצבים במדויק עבור כל עור, עם טכניקות מתקדמות ותוצאות מדהימות",
+            "en": "טיפולי פנים מקצועיים המעוצבים במדויק עבור כל עור, עם טכניקות מתקדמות ותוצאות מדהימות"
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Droplet",
+          "title": {
+            "he": "טיפולי הזנה והחדרה",
+            "en": "טיפולי הזנה והחדרה"
+          },
+          "desc": {
+            "he": "הזנה עמוקה ומושלמת של העור באמצעות טכנולוגיה מתקדמת לעור זוהר וצעיר",
+            "en": "הזנה עמוקה ומושלמת של העור באמצעות טכנולוגיה מתקדמת לעור זוהר וצעיר"
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Shield",
+          "title": {
+            "he": "טיפולים מתמחים",
+            "en": "טיפולים מתמחים"
+          },
+          "desc": {
+            "he": "פתרונות מתמחים לבעיות עור מסוגים שונים, עם מקצועיות ותשומת לב אישית",
+            "en": "פתרונות מתמחים לבעיות עור מסוגים שונים, עם מקצועיות ותשומת לב אישית"
+          }
+        },
+        {
+          "id": "4",
+          "icon": "Award",
+          "title": {
+            "he": "ייעוץ עור ותכנון אישי",
+            "en": "ייעוץ עור ותכנון אישי"
+          },
+          "desc": {
+            "he": "ניתוח מעמיק של העור ותכנון טיפול מותאם אישית שמתחשב בצרכים הייחודיים שלך",
+            "en": "ניתוח מעמיק של העור ותכנון טיפול מותאם אישית שמתחשב בצרכים הייחודיים שלך"
+          }
+        },
+        {
+          "id": "5",
+          "icon": "CheckCircle",
+          "title": {
+            "he": "סביבה בטוחה וכוללת",
+            "en": "סביבה בטוחה וכוללת"
+          },
+          "desc": {
+            "he": "קליניקה ידידותית LGBTQ+ שבה כל אחד מרגיש מוקבל ומכובד בכל ביקור",
+            "en": "קליניקה ידידותית LGBTQ+ שבה כל אחד מרגיש מוקבל ומכובד בכל ביקור"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "",
+      "visible": true,
+      "items": [
+        {
+          "author": "Sahar Shachar",
+          "rating": 5,
+          "text": "חן מושלמת! היא נעימה, מעמיקה ולומדת כל הזמן.",
+          "date": "a week ago",
+          "iso_date": "2026-04-29T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Sahar Shachar",
+          "rating": 5,
+          "text": "חן מושלמת! היא נעימה, מעמיקה ולומדת כל הזמן.",
+          "date": "a week ago",
+          "iso_date": "2026-04-29T14:35:22.799Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "נעמה",
+          "rating": 5,
+          "text": "תודה לחן המדהימה שעושה פלאים!!\nגם מקצועית ברמות וגם כיף ונעים אצלה\nממליצה בחום לתת את הפנים שלכן לידיים הנדירות שלה♥️",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.801Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Keren Boosy",
+          "rating": 5,
+          "text": "הגעתי לחן לפני 3 שנים, הזמן טס!\nהיא מקצוענית בטירוף, משקיע בכל טיפול, בלי קיצורי דרך. תמיד נעימה ודואגת שארגיש בנח❤️\nהתוצאות מעולות, מאוד מתאימה את עצמה ואת הטיפול אליי שזה לא מובן מאליו בכלל!\nאין עלייה!!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.801Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Keren Boosy",
+          "rating": 5,
+          "text": "הגעתי לחן לפני 3 שנים, הזמן טס!\nהיא מקצוענית בטירוף, משקיע בכל טיפול, בלי קיצורי דרך. תמיד נעימה ודואגת שארגיש בנח❤️\nהתוצאות מעולות, מאוד מתאימה את עצמה ואת הטיפול אליי שזה לא מובן מאליו בכלל!\nאין עלייה!!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.801Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Noa G",
+          "rating": 5,
+          "text": "הכי טובבהההננ התחום הצילה לי את עור הפנים חידשה❤️❤️❤️❤️💖 …",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Noa G",
+          "rating": 5,
+          "text": "הכי טובבהההננ התחום הצילה לי את עור הפנים חידשה❤️❤️❤️❤️💖 …",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "ענבל רביבו",
+          "rating": 5,
+          "text": "חן אמיר\nאין מקצועית ממך !\nלעולם לא הייתי אצל קוסמטיקאית שמבינה את העור כמוך ולא פשוט פועלת על אוטומט\nמתאימה את עצמה ללקוחה/לעור/לתוצאה הרצויה\nאת בהחלט בתחום הנכון אין עלייך\nתודה על טיפול מפנק ומדהים 🙏🏻❣️",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "ענבל רביבו",
+          "rating": 5,
+          "text": "חן אמיר\nאין מקצועית ממך !\nלעולם לא הייתי אצל קוסמטיקאית שמבינה את העור כמוך ולא פשוט פועלת על אוטומט\nמתאימה את עצמה ללקוחה/לעור/לתוצאה הרצויה\nאת בהחלט בתחום הנכון אין עלייך\nתודה על טיפול מפנק ומדהים 🙏🏻❣️",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "marina nemaizer",
+          "rating": 5,
+          "text": "ידי זהב! ותוצאות מוכחות. קוסמטיקאית מקצועית ונעימה מאוד. ממליצה בחום",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "marina nemaizer",
+          "rating": 5,
+          "text": "ידי זהב! ותוצאות מוכחות. קוסמטיקאית מקצועית ונעימה מאוד. ממליצה בחום",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "liav amir",
+          "rating": 5,
+          "text": "הגעתי לקליניקה של חן בהמלצה עם הבן שלי שהיה במצב אקנתי מאוד קשה היא פשוט הצילה אותו\nהיא כל כך מסורה נעימה ומאוד מקצועית\nכל כך סומכת עלייה שאפילו אני כבר התחלתי לטפל בפנים שלי אצלה\nוהכי חשוב היא מאוד אמיתית\nממליצה בחום למי שמחפשת או מחפש טיפול מקצועי באחריות",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "liav amir",
+          "rating": 5,
+          "text": "הגעתי לקליניקה של חן בהמלצה עם הבן שלי שהיה במצב אקנתי מאוד קשה היא פשוט הצילה אותו\nהיא כל כך מסורה נעימה ומאוד מקצועית\nכל כך סומכת עלייה שאפילו אני כבר התחלתי לטפל בפנים שלי אצלה\nוהכי חשוב היא מאוד אמיתית\nממליצה בחום למי שמחפשת או מחפש טיפול מקצועי באחריות",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "סיון יוסף",
+          "rating": 5,
+          "text": "מומלצת בחום רב!\nמקצועית, שירותית ויסודית בכל המובנים.\nתמיד נותנת הרגשה שיש על מי לסמוך.\nמטופלת אצל חן כבר תקופה ארוכה והתוצאות ניכרות בשטח לגמרי ידי זהב!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "סיון יוסף",
+          "rating": 5,
+          "text": "מומלצת בחום רב!\nמקצועית, שירותית ויסודית בכל המובנים.\nתמיד נותנת הרגשה שיש על מי לסמוך.\nמטופלת אצל חן כבר תקופה ארוכה והתוצאות ניכרות בשטח לגמרי ידי זהב!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "אלמוג יצחק",
+          "rating": 5,
+          "text": "אני וחן מכירות מתחילת דרכה בערך,עזבו שיש לה לב זהב 🤍כל טיפול אצלה הוא חוויה,מסבירה במדויק מה היא עושה,מקצועית מאוד, נעימה עדינה והכי חשוב יוצאים מהטיפול שלה עם עור נקי זוהר ומושלם.ממליצה בחום! …",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "אלמוג יצחק",
+          "rating": 5,
+          "text": "אני וחן מכירות מתחילת דרכה בערך,עזבו שיש לה לב זהב 🤍כל טיפול אצלה הוא חוויה,מסבירה במדויק מה היא עושה,מקצועית מאוד, נעימה עדינה והכי חשוב יוצאים מהטיפול שלה עם עור נקי זוהר ומושלם.ממליצה בחום! …",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "yasmin kemalov",
+          "rating": 5,
+          "text": "הכי טובה ומקצועית שיש!!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "yasmin kemalov",
+          "rating": 5,
+          "text": "הכי טובה ומקצועית שיש!!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "rotemsnir88",
+          "rating": 5,
+          "text": "אין מקצוענית כמו חן!\nאכפתית, שירותית, חושבת רק על טובת הלקוח/ה, ומומחית בתחומה ברמה הכי גבוהה!\nוהתוצאות - וואו!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "rotemsnir88",
+          "rating": 5,
+          "text": "אין מקצוענית כמו חן!\nאכפתית, שירותית, חושבת רק על טובת הלקוח/ה, ומומחית בתחומה ברמה הכי גבוהה!\nוהתוצאות - וואו!",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "ספיר זגורי",
+          "rating": 5,
+          "text": "חן קוסמטיקאית על היא עזרה לי ממש\nאודה לה כל חיי ❤️",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "ספיר זגורי",
+          "rating": 5,
+          "text": "חן קוסמטיקאית על היא עזרה לי ממש\nאודה לה כל חיי ❤️",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "נעמה",
+          "rating": 5,
+          "text": "תודה לחן המדהימה שעושה פלאים!!\nגם מקצועית ברמות וגם כיף ונעים אצלה\nממליצה בחום לתת את הפנים שלכן לידיים הנדירות שלה♥️",
+          "date": "a month ago",
+          "iso_date": "2026-04-06T14:35:22.800Z",
+          "is_local_guide": false
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "צרי קשר ותאם זימון עם חן",
+          "en": "צרי קשר ותאם זימון עם חן"
+        },
+        "wa_hello": {
+          "he": "שלום! אני רוצה להתייעץ על טיפול",
+          "en": "שלום! אני רוצה להתייעץ על טיפול"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "desc": {
+          "he": "חן אמיר היא קוסמטיקאית פרא רפואית עם מומחיות יוצאת דופן ודקירות מושלמות לעבודה. הלקוחות שלה חוזרים שוב ושוב כי היא משלבת מקצועיות גבוהה עם טיפול אישי, ללא קיצורי דרך ולא כמעט אף פעם. בקליניקה שלה בהולון, כולם מרגישים ביתיים — זה מקום כוללני וידידותי עבור כל אדם.",
+          "en": "חן אמיר היא קוסמטיקאית פרא רפואית עם מומחיות יוצאת דופן ודקירות מושלמות לעבודה. הלקוחות שלה חוזרים שוב ושוב כי היא משלבת מקצועיות גבוהה עם טיפול אישי, ללא קיצורי דרך ולא כמעט אף פעם. בקליניקה שלה בהולון, כולם מרגישים ביתיים — זה מקום כוללני וידידותי עבור כל אדם."
+        },
+        "years_value": {
+          "he": "3+ שנים של אמון ושביעות רצון",
+          "en": "3+ שנים של אמון ושביעות רצון"
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "תוצאות שדוברות בעד עצמן",
+          "en": "תוצאות שדוברות בעד עצמן"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 1",
+            "en": "קליניקת חן אמיר - Photo 1"
+          }
+        },
+        {
+          "url": "/images/photo-2.webp",
+          "thumb": "/images/photo-2.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 2",
+            "en": "קליניקת חן אמיר - Photo 2"
+          }
+        },
+        {
+          "url": "/images/photo-3.webp",
+          "thumb": "/images/photo-3.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 3",
+            "en": "קליניקת חן אמיר - Photo 3"
+          }
+        },
+        {
+          "url": "/images/photo-4.webp",
+          "thumb": "/images/photo-4.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 4",
+            "en": "קליניקת חן אמיר - Photo 4"
+          }
+        },
+        {
+          "url": "/images/photo-5.webp",
+          "thumb": "/images/photo-5.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 5",
+            "en": "קליניקת חן אמיר - Photo 5"
+          }
+        },
+        {
+          "url": "/images/photo-6.webp",
+          "thumb": "/images/photo-6.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 6",
+            "en": "קליניקת חן אמיר - Photo 6"
+          }
+        },
+        {
+          "url": "/images/photo-7.webp",
+          "thumb": "/images/photo-7.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 7",
+            "en": "קליניקת חן אמיר - Photo 7"
+          }
+        },
+        {
+          "url": "/images/photo-8.webp",
+          "thumb": "/images/photo-8.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 8",
+            "en": "קליניקת חן אמיר - Photo 8"
+          }
+        },
+        {
+          "url": "/images/photo-9.webp",
+          "thumb": "/images/photo-9.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 9",
+            "en": "קליניקת חן אמיר - Photo 9"
+          }
+        },
+        {
+          "url": "/images/photo-10.webp",
+          "thumb": "/images/photo-10.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 10",
+            "en": "קליניקת חן אמיר - Photo 10"
+          }
+        },
+        {
+          "url": "/images/photo-11.webp",
+          "thumb": "/images/photo-11.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 11",
+            "en": "קליניקת חן אמיר - Photo 11"
+          }
+        },
+        {
+          "url": "/images/photo-12.webp",
+          "thumb": "/images/photo-12.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 12",
+            "en": "קליניקת חן אמיר - Photo 12"
+          }
+        },
+        {
+          "url": "/images/photo-13.webp",
+          "thumb": "/images/photo-13.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 13",
+            "en": "קליניקת חן אמיר - Photo 13"
+          }
+        },
+        {
+          "url": "/images/photo-14.webp",
+          "thumb": "/images/photo-14.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 14",
+            "en": "קליניקת חן אמיר - Photo 14"
+          }
+        },
+        {
+          "url": "/images/photo-15.webp",
+          "thumb": "/images/photo-15.webp",
+          "source": "owner",
+          "alt": {
+            "he": "קליניקת חן אמיר - תמונה 15",
+            "en": "קליניקת חן אמיר - Photo 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ]
+}

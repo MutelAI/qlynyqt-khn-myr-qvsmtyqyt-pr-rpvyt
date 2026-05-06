@@ -1,0 +1,11 @@
+{
+  "primary_color": "rose",
+  "secondary_color": "pink",
+  "hero_gradient": "from-rose-900 via-rose-800 to-pink-900",
+  "contact_gradient": "from-pink-800 via-rose-850 to-rose-900",
+  "font_heading": "Segoe UI, sans-serif",
+  "font_body": "Segoe UI, sans-serif",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');",
+  "brand_personality": "bold, confident, professional, welcoming",
+  "logo_emoji": "Sparkles"
+}
