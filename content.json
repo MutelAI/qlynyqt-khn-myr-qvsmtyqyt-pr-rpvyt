@@ -13,16 +13,16 @@
     "website": "",
     "rating": 5,
     "reviews_count": 100,
-    "address_he": "פרלוק משה 16, תל אביב",
+    "address_he": "16, משה פרלוק, תל־אביב–יפו, נופי ים, תל־אביב–יפו, נפת תל אביב, מחוז תל אביב, 6946032, ישראל",
     "address_en": "Ze'ev Jabotinsky St 18, Holon, Israel",
     "category_he": "קוסמטיקאית פרא רפואית",
     "category_en": "Paramedical Aesthetician",
-    "maps_url": "https://maps.google.com/?q=32.0250458,34.7786546",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=32.116092,34.792013",
     "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFw1JkjtUdpQqyLEjSVJi8gFkPV6n6TP5xoGS7FAQ4q5qSw0v9Qbr2fme6DV7HL3nJ0ikIKDbzY2KubFcmvFK39mijeJrhoxLqgFSQg-b0aRRiwnarKMmN2qr47SAETBiMVRQ=w408-h725-k-no",
     "logo_emoji": "",
     "geo": {
-      "latitude": 32.0250458,
-      "longitude": 34.7786546
+      "latitude": 32.116092,
+      "longitude": 34.792013
     },
     "schema_type": "HealthAndBeautyBusiness",
     "price_range": "$",
