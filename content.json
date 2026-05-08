@@ -7,7 +7,7 @@
     "available_langs": [
       "he"
     ],
-    "phone": "+972508939326",
+    "phone": "0523800969",
     "phone_display": "+972508939326",
     "whatsapp": "972508939326",
     "website": "",
@@ -25,11 +25,11 @@
       "longitude": 34.7786546
     },
     "schema_type": "HealthAndBeautyBusiness",
-    "price_range": "$$",
+    "price_range": "$",
     "source_url": "https://maps.app.goo.gl/qjXT5faZ9ZyunhjR6",
-    "cache_key": "qjXT5faZ9ZyunhjR6"
+    "cache_key": "qjXT5faZ9ZyunhjR6",
+    "email": ""
   },
-  "editToken": "794682442b98e2e267ad0f9c655c1beb",
   "hours": [
     {
       "day_key": "sunday",
@@ -88,7 +88,13 @@
       "is_open": true
     }
   ],
-  "design": {},
+  "design": {
+    "color_primary": "emerald",
+    "color_secondary": "teal",
+    "hero_gradient": "from-emerald-950 via-emerald-900 to-teal-950",
+    "contact_gradient": "from-emerald-950 to-teal-900",
+    "section_dark_bg": "#022c22"
+  },
   "sections": [
     {
       "id": "hero",
