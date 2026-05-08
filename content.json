@@ -578,50 +578,55 @@
     {
       "id": "pricing",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "faq",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "team",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "before_after",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "video",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "menu",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "steps",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "stats",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
+    },
+    {
+      "id": "popup",
+      "variant": "B",
+      "visible": true
     }
   ]
 }
